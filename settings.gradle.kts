@@ -30,3 +30,4 @@ rootProject.name = "asoft-primary"
 
 include(":asoft-auth")
 include(":asoft-siltech")
+include(":asoft-send-grid")
