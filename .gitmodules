@@ -1,0 +1,9 @@
+[submodule "asoft-auth"]
+	path = asoft-auth
+	url = https://github.com/andylamax/asoft-auth
+[submodule "asoft-siltech"]
+	path = asoft-siltech
+	url = https://github.com/andylamax/asoft-siltech
+[submodule "asoft-send-grid"]
+	path = asoft-send-grid
+	url = https://github.com/andylamax/asoft-send-grid
